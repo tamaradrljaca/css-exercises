@@ -1,0 +1,19 @@
+.back-ground {
+    background-color: rgb(236, 100, 175);
+    font-family: Verdana, "DejaVu-Sans", sans-serif;
+}
+
+#txt {
+    color: rgb(10, 10, 138);
+    font-size: 36px;
+}
+
+.size {
+    font-size: 24px;
+}
+
+#color {
+    background-color: rgb(144, 217, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
